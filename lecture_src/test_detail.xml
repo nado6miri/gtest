@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2019-07-23T07:06:21" time="0" name="AllTests">
+  <testsuite name="SampleTest" tests="2" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="foo" status="run" time="0" classname="SampleTest">
+<properties>
+<property name="cpu" value="1.2"/>
+</properties>
+    </testcase>
+    <testcase name="goo" status="run" time="0" classname="SampleTest">
+<properties>
+<property name="cpu" value="1.5"/>
+</properties>
+    </testcase>
+  </testsuite>
+</testsuites>
